@@ -63,4 +63,4 @@ The official publication date of the workshop proceedings is the date the procee
 
 ## Other Material
 
-We also prepare a pdf version of the workshop proposal. Please refer to [proposal.pdf](https://github.com/LMPLworkshop/LMPL/edit/main/proposal.pdf)
+We also prepare a pdf version of the workshop proposal. Please refer to [proposal.pdf](https://github.com/LMPLworkshop/LMPL/blob/main/proposal.pdf)
