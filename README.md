@@ -1,6 +1,6 @@
 # International Workshop on Language Models and Programming Languages (LMPL 2025)
 
-(In conjunction with SPLASH 2025, Singpore)
+(In conjunction with SPLASH 2025, Singapore)
 
 The recent advancements in Large Language Models (LLMs) have had a profound impact on various areas of programming languages, including program analysis, verification, synthesis, and optimization. This workshop aims to explore these intersections, highlighting both opportunities and challenges, and promoting collaboration between the programming languages and machine learning communities.
 
