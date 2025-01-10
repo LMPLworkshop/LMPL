@@ -1,4 +1,4 @@
-# International Workshop on Language Models and Programming Languages (LMPL 2025)
+# The First International Workshop on Language Models and Programming Languages (LMPL 2025)
 
 (In conjunction with SPLASH 2025, Singapore)
 
@@ -60,3 +60,7 @@ We will use HotCRP as the online submission system. All submissions must conform
 Submissions can be made via the submission site by the submission deadline. We encourage the authors to upload their paper info early (and can submit the PDF later) to properly enter conflicts for double-blind reviewing. If a submission is accepted, at least one author of the paper is required to attend the workshop and present the paper in person.
 
 The official publication date of the workshop proceedings is the date the proceedings are made available by ACM. This date may be up to two weeks prior to the first day of SPLASH 2025. The official publication date affects the deadline for any patent filings related to published work.
+
+## Other Material
+
+We also prepare a pdf version of the workshop proposal. Please refer to [proposal.pdf](https://github.com/LMPLworkshop/LMPL/edit/main/proposal.pdf)
