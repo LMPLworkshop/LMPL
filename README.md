@@ -21,7 +21,7 @@ We invite submissions discussing recent advancements at the intersection of lang
    - LLMs for static analysis, such as program verification, bug detection, program optimization
    - LLMs for code generation, such as program transiplation, synthesis, and repair
    - LLMs for program testing, such as fuzzing and domain-specific system testing
-   -Other tasks in the fields of programming languages and software engineering
+   - Other tasks in the fields of programming languages and software engineering
 
 - **PL techniques for LLM applications**
    - PL techniques for prompt engineering
