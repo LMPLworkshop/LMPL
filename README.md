@@ -15,7 +15,7 @@ The recent advancements in Large Language Models (LLMs) have had a profound impa
 
 ## Call for Papers
 
-We invite submissions discussing recent advancements at the intersection of language models and programming languages. This workshop will offer researchers the opportunity to exchange ideas and explore emerging research directions. Unlike existing workshops and conferences in the SE community, such as LLM4Code, AIware, and Forge, LMPL focuses more specifically on programming language-related problems, including program analysis, verification, and optimization. It also explores how PL techniques, such as formal methods and PL design principles, contribute to language model applications. The scope of LMPL includes, but is not limited to:
+We invite submissions discussing recent advancements at the intersection of language models and programming languages. This workshop will offer researchers the opportunity to exchange ideas and explore emerging research directions. Unlike existing workshops and conferences in the SE community, such as LLM4Code, AIware, and Forge, LMPL focuses more specifically on programming language-related problems, including program analysis, verification, and optimization. It also explores how PL techniques, such as formal methods and PL design principles, contribute to language model applications. More specifically, the scope of LMPL includes, but is not limited to:
 
 - **LLMs for PL tasks**
    - LLMs for static analysis, such as program verification, bug detection, program optimization
